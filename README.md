@@ -18,5 +18,3 @@ This repository contains the frontend application for the Task Management API. T
 1. Clone the repository:
    ```bash
    git clone git@github.com:your-username/task-management-frontend.git
-
-# task-management-frontend
